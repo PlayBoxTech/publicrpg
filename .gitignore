@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+# Only track PublicRPG code, ignore paid third-party assets
+/[Aa]ssets/*
+!/[Aa]ssets/PublicRPG/
+!/[Aa]ssets/PublicRPG/**
+
